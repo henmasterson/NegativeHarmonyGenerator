@@ -1,5 +1,5 @@
-
-import QtQuick 2.2
+https://github.com/RP335/NegativeHarmonyGenerator/commit/5995fb69b77bbf820384a67c2163610f2b6422fc#diff-0d3fc4a7f18cc90743e4c9b9b1d43ebd400b5ccd060acd865540f7b7b3a02b6aR1
+importQtQuick 2.2
 import QtQuick.Controls 1.1
 import QtQuick.Controls.Styles 1.3
 import QtQuick.Layouts 1.1
