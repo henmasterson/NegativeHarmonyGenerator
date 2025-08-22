@@ -1,4 +1,4 @@
-
+git remote set-urlhttps://youtu.be/VHuiGljnxTw?si=qC8g38fPT2xtv4mC
 import QtQuick 2.2
 import QtQuick.Controls 1.1
 import QtQuick.Controls.Styles 1.3
